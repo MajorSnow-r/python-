@@ -9,7 +9,7 @@ from pymongo import MongoClient
    1.利用bs4的解析方式
    2.爬取图片名称和对应的url
    3.利用多线程爬取
-   4.保存导 mongdb
+   4.保存到本地
 """
 """页面分析
 1.获取包含所有图片的 div class="tupian-list com-img-txt-list masonry"
